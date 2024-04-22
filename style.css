@@ -38,12 +38,12 @@ form p {
     outline: none;
     font-size: 16px;
     margin-bottom: 35px;
-    font: small-caps 100%/200% serif; /* Cambia el tipo de fuente, ej. a Helvetica */
-    font-size: 20px; /* Cambia el tamaño de la fuente */
-    font-weight: normal; /* El peso de la fuente: normal, bold, etc. */
-    color:  rgba(0, 46, 253, 0.7); /* Cambia el color del texto */
-    text-transform: none; /* Controla las transformaciones del texto: uppercase, lowercase, capitalize */
-    letter-spacing: 0.5px; /* Espaciado entre letras */
+    font: small-caps 100%/200% serif; 
+    font-size: 20px; 
+    font-weight: normal; 
+    color:  rgba(0, 46, 253, 0.7); 
+    text-transform: none; 
+    letter-spacing: 0.5px; 
 }   
 
 .input-wrapper {
